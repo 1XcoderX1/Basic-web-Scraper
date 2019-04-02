@@ -1,2 +1,2 @@
 # Basic web Scraper
-A repo with some basic web scraping techniques using pyton
+A repo with some basic web scraping techniques using python
